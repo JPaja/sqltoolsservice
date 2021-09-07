@@ -174,6 +174,7 @@ publish/
 *.nuget.targets
 src/**/*.nupkg
 **/packages/*
+!Packages.props
 
 # Windows Azure Build Output
 csx/
